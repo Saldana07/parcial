@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entorno virtual
+.venv/
+
+# Salidas generadas al ejecutar (se vuelven a generar con graficas.py y benchmark_carrera.py)
+graficas/
+resultados/
+
+# Temporales de Office y del sistema
+~$*
+Thumbs.db
+desktop.ini
